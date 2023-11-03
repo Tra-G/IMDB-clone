@@ -1,2 +1,2 @@
-# linkedln-clone
-This is a website built using React, Redux, Authentication, Firebase, CSS, and more.
+# IMDB-clone
+This is a website built using NextJs13 and CSS modules.
